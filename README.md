@@ -1,5 +1,7 @@
 # Boston House Price Dataset
 
+![Boston House Image](https://miro.medium.com/max/1000/1*FHQOSHMMT07CbXpklk1Ehw.jpeg)
+
 This repository contains a jupyter notebook analysing the Boston House price dataset using Python, packages scipy and keras. The notebook uses descriptive statistics and plots to describe the Boston House Prices dataset. Inferential statistics are used to analyse the difference in median house prices along the Charles river and houses which are not. Keras has been used to create a neural network to predict the median house price based on the other variables in the dataset.
 
 ## Getting Started
