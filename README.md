@@ -14,6 +14,13 @@ In order to run this notebook the following prequisites are required:
 
 ```
 Python
+Numpy
+Seaborn
+Pandas
+Sklearn
+scipy.stats as stats
+Statsmodels
+Matplotlib
 Keras
 ```
 
@@ -24,6 +31,16 @@ Keras version 2.3.0 was used. Multi-backend Keras is superseded by tf.keras.
 ## Authors
 
 * **Grace Kelly** 
+
+## Resources
+
+https://matplotlib.org/
+
+https://towardsdatascience.com/linear-regression-on-boston-housing-dataset-f409b7e4a155
+
+https://scikit-learn.org/stable/modules/cross_validation.html
+
+https://medium.com/@haydar_ai/learning-data-science-day-9-linear-regression-on-boston-housing-dataset-cd62a80775ef
 
 ## License
 
