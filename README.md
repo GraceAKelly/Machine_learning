@@ -42,6 +42,8 @@ https://scikit-learn.org/stable/modules/cross_validation.html
 
 https://medium.com/@haydar_ai/learning-data-science-day-9-linear-regression-on-boston-housing-dataset-cd62a80775ef
 
+https://www.ritchieng.com/machine-learning-project-boston-home-prices/
+
 ## License
 
 This project is licensed under the Apache License - see the [LICENSE.md](LICENSE.md) file for details
